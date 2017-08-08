@@ -1,0 +1,21 @@
+PODS:
+  - CocoaPodsModule (0.0.1)
+
+DEPENDENCIES:
+  - CocoaPodsModule (from `https://github.com/cy-koki-yamada/CocoaPodsModule.git`)
+
+EXTERNAL SOURCES:
+  CocoaPodsModule:
+    :git: https://github.com/cy-koki-yamada/CocoaPodsModule.git
+
+CHECKOUT OPTIONS:
+  CocoaPodsModule:
+    :commit: 4fab3c2f3209f76322ceb55bfbfea01c81548934
+    :git: https://github.com/cy-koki-yamada/CocoaPodsModule.git
+
+SPEC CHECKSUMS:
+  CocoaPodsModule: fe5ec9fb3c827a8a2f697d5364a18717a1390eec
+
+PODFILE CHECKSUM: '09c7d623d35ec915d54d19324ca06b32a6be8f50'
+
+COCOAPODS: 1.2.1
